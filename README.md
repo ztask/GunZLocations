@@ -8,12 +8,14 @@
 
 3500, 6300: Gas station: spawnpoint 8
 
-
+900, 5900: PRISON
 ### Warnings
 
+PRISON: has zombie spawners. Good loot.
 
 ### Spawnpoints
 
+3700, 4900: spawn #1
 
 ### Reddit post: http://redd.it/1lit5r
 
