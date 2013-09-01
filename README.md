@@ -1,4 +1,4 @@
-### Citys
+### Cities
 Everything bigger than 5 buildings goes here, else Minor locations.
 Please note if there are water/craftingtable/brewingstands available.
 
