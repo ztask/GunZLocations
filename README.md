@@ -16,3 +16,7 @@
 
 
 ### Reddit post: http://redd.it/1lit5r
+
+### How to contribute
+
+Click "readme.md" and click "Edit". Add stuff.
