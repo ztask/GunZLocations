@@ -26,7 +26,7 @@ There 16 spawns available which are in a straight line, like in MineZ. Go west f
 
 3700, 4900: spawn #1 Spawns on a boat, several structures nearby.
 
-????,????: spawn #2 [note]
+4000,5400: spawn #2 Spawns on the coast, large town nearby
 
 ????,????: spawn #3 [note]
 
